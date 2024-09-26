@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KroniKalZ
+- 👀 I’m interested in ML/AI/C++
+- 🌱 I’m currently learning AI/DBMS/Comp.Arch./DE
