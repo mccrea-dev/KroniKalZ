@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @KroniKalZ
-- 👀 I’m currently interested in ML/AI/Robotics/WebDev
+- Hi, I’m @mccrea-dev
+- I’m currently interested in ML/AI/Robotics/WebDev
